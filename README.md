@@ -1,5 +1,10 @@
 # 🛡️ UPIShield
 
+### 🔗 Live Demo
+👉 [Launch UPIShield](https://upishieldanjali1stapp.streamlit.app/)
+
+# 🛡️ UPIShield
+
 ### AI-Powered UPI Fraud Detection & Risk Analysis Prototype
 
 UPIShield is an intelligent UPI transaction risk analysis system designed to identify potentially suspicious transactions and provide an understandable risk assessment.
